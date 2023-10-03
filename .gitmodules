@@ -1,3 +1,12 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:rdumi7ru/hugo-darkscience-public.git
+[submodule "themes/texify2"]
+	path = themes/texify2
+	url = https://github.com/rdumi7ru/hugo-texify2.git
+[submodule "themes/hugo-xterm"]
+	path = themes/hugo-xterm
+	url = git@github.com:rdumi7ru/hugo-xterm.git
+[submodule "themes/hugo-terminal"]
+	path = themes/hugo-terminal
+	url = git@github.com:rdumi7ru/hugo-theme-terminal.git
